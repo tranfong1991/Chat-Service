@@ -7,8 +7,6 @@
 
 using namespace std;
 
-class ChatServer;
-
 struct ChatServerThreadParams{
 	string roomName;
 	int sockFd;
