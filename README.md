@@ -1,6 +1,6 @@
 # Chat Service
 
-Instructions: <br/>
+<b>Instructions:</b> <br/>
 1. Download the source code <br/>
 2. Go to client/ and type in 'make' to compile <br/>
 3. Go to server/ and type in 'make' to compile <br/>
